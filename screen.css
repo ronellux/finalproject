@@ -2,3 +2,16 @@
 a.active {
     font-weight: bold;
 }
+
+body{
+    background-image: url(Image\ 1.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.hometext{
+    text-align: center;
+    color: white;
+    margin-top: 600px;
+}
