@@ -1,3 +1,21 @@
 body{
     background-color: black;
 }
+
+.header{
+    color: white !important;
+    margin: 30px;
+}
+
+.about-text{
+    color: white !important;
+    font-size: 20px;
+    margin: 30px;
+    
+}
+
+.img{
+    margin-left: 1000px;
+    padding-bottom: 40px;
+    margin-top: -60px;
+}
