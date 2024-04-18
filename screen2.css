@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.heading{
+    color: white;
+}
+
+
+.re4{
+    margin-left: 160px;
+}
+
+.mystery{
+    margin-left: 800px;
+    padding-bottom: 40px;
+    margin-top: -590px;
+}
+
+.h2{
+    margin-left: 250px;
+    color: white !important;
+}
+
+.h3{
+    margin-left: 890px;
+    padding-bottom: 40px;
+    margin-top: -460px !important;
+    color: white !important;
+}
