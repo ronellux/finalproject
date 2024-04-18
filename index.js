@@ -1,1 +1,4 @@
-// Add JavaScript below
+window.onload = function() {
+
+    ScrollReveal().reveal('.hometext',{delay:300});
+}
