@@ -5,6 +5,13 @@ body{
     background-color: black;
 }
 
+.navbar{
+    font-family: "Krona One";
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .heading{
     color: white;
     margin: 30px;

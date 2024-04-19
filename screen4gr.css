@@ -7,6 +7,13 @@
     font-family: "Krona One";
 }
 
+.navbar{
+    font-family: "Krona One";
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .img{
 margin: 20px;
 }
