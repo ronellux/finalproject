@@ -19,4 +19,9 @@ margin: 20px;
     color: white !important;
 }
 
-
+.carousel{
+    width: 800px;
+    margin-left: 500px;
+    margin-top: 50px;
+    border-radius: 50px;
+}

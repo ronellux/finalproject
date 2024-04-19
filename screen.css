@@ -4,14 +4,19 @@ a.active {
 }
 
 body{
-    background-image: url(Image\ 1.jpg);
+    background-image: url(IMG_4376.JPG);
     background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 
+.name{
+    margin: 10px;
+    color: white;
+}
+
 .hometext{
     text-align: center;
-    color: white;
+    color: white !important;
     margin-top: 600px;
 }
