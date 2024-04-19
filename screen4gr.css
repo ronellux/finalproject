@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
 .header{
     color: white !important;
-    margin: 30px
+    margin: 30px;
+    font-family: "Krona One";
 }
 
 .img{
@@ -17,6 +21,7 @@ margin: 20px;
     margin-left: 470px;
     margin-top: -140px;
     color: white !important;
+    
 }
 
 .carousel{

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
 body{
     background-color: black;
 }
@@ -5,6 +8,7 @@ body{
 .heading{
     color: white;
     margin: 30px;
+    font-family: "Krona One";
 }
 
 
@@ -19,14 +23,16 @@ body{
 }
 
 .h2{
-    margin-left: 250px;
+    margin-left: 220px;
     margin-top: -32px !important;
     color: white !important;
+    font-family: "Krona One";
 }
 
 .h3{
-    margin-left: 890px;
+    margin-left: 840px;
     padding-bottom: 40px;
     margin-top: -460px !important;
     color: white !important;
+    font-family: "Krona One";
 }
